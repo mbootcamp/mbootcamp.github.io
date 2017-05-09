@@ -1,5 +1,5 @@
 [
- {"url": "http://www.ucla.edu", "display": "UCLA"},
- {"url": "https://www.kernel.org", "display": "KERNEL"},
- {"url": "http://flask.pocoo.org/", "display": "FLAsk"}
+ {"url": "//post/1", "display": "Title 1"},
+ {"url": "//post/2", "display": "Title 2"},
+ {"url": "//post/3", "display": "Title 3"}
 ]
