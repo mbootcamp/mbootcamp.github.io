@@ -1,5 +1,5 @@
 [
- {"url": "/post/1", "display": "Title 1"},
- {"url": "/post/2", "display": "Title 2"},
- {"url": "/post/3", "display": "Title 3"}
+ {"url": "/posts/1", "display": "Title 1"},
+ {"url": "/posts/2", "display": "Title 2"},
+ {"url": "/posts/3", "display": "Title 3"}
 ]
